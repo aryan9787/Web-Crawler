@@ -1,4 +1,4 @@
-# Web Crawler Project Documentation
+# Web Crawler
 
 ## Overview
 This project implements a **basic web crawler** using Python that systematically browses web pages, extracts useful information, and stores it in a structured database.
